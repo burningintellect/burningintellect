@@ -12,7 +12,7 @@
 
 <p align=center><img width=200 height=200 alt=image src=https://i.postimg.cc/0jBC28WK/Tshock.webp />
 
-<p align=center>‎ <a href=(https://guns.lol/abnormaliity)>gunslol </a> </p>
+<p align=center>‎ <a href=https://guns.lol/abnormaliity>gunslol </a> </p>
 
 <p align=center> <sub> feel free to int! </sub> </p>
 
