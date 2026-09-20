@@ -16,7 +16,7 @@
 
 <p align=center> <sub> feel free to int! </sub> </p>
 
-<p align=center> ┈┈┈┈┈┈┈┈ ┈┈┈┈┈┈┈┈ ┈┈┈┈┈┈┈┈ ┈┈┈ </p>
+<p align=center> ──────────────────────── ⊂⊃ ──────────────────────── </p>
 
 <!--
 **burningintellect/burningintellect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
