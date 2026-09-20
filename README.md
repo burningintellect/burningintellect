@@ -1,4 +1,4 @@
-<p align=center> ‎<img src=https://komarev.com/ghpvc/?username=burningintellect&color=blueviolet&label=📖> ‎</p>
+<p align=center> ‎<img src=https://komarev.com/ghpvc/?username=burningintellect&color=tan&label=📖> ‎</p>
 
 <p align=center> <ins> rad ‎ or‎ ‎ ayin </ins> </p>
 
