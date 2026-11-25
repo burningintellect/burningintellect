@@ -12,7 +12,7 @@
 
 <p align=center><img width=200 height=200 alt=image src=https://i.postimg.cc/4dJpvzrC/f546e3125f2a9bf8a7ae57c6c8a17ae7630adb60-removebg-preview.png />
 
-<p align=center>‎ <a href=https://guns.lol/abnormaliity>gunslol </a> </p>
+<p align=left>‎ <a href=https://guns.lol/abnormaliity>gunslol </a> </p> <p align=right>‎ <a href=https://amodal.atabook.org/>gunslol </a> </p>
 
 <p align=center> <sub> feel free to int! </sub> </p>
 
